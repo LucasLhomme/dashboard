@@ -1,5 +1,10 @@
 # INTER-NET — Modular Distributed Dashboard
 
+[![School: Epitech](https://img.shields.io/badge/School-Epitech-005696.svg)](https://www.epitech.eu/)
+[![Academic Year: 2026-2027](https://img.shields.io/badge/Academic%20Year-2026--2027%20(Tek3)-blueviolet.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
 > **Projet Dashboard Epitech**  
 > Application web full-stack conteneurisée permettant de composer un tableau de bord dynamique et modulaire avec rafraîchissement périodique individuel par widget, gestion multi-services et architecture distribuée en microservices.
 
